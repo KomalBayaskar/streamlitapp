@@ -3,7 +3,7 @@ from langchain_core.prompts import PromptTemplate
 import streamlit as st
 import os
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyAkcm5Z5Vec4WxWCgdiqA8g8klHLddOqAE"
+os.environ["GOOGLE_API_KEY"] = "AIzaSyBsvmqNMz7ir0s5l283PlmkrvaD28AP7wg"
 
 tweet_template = "Give me {number} tweets on{topic}"
 
